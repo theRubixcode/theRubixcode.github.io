@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import astronautHelmet from "../assets/astronaut-helmet.png";
 import deadEye from "../assets/dead-eye.png";
@@ -64,7 +64,7 @@ export default function Nav() {
       {renderNavLink("/", astronautHelmet, "astronaut helmet icon", "nav-about")}
       {renderNavLink("/skills", deadEye, "deadEye icon", "nav-skills")}
       {renderNavLink("/projects", stack, "stack icon", "nav-projects")}
-      {renderNavLink("contact", envelope, "envelope icon", "nav-contact")}
+      {renderNavLink("/contact", envelope, "envelope icon", "nav-contact")}
     </nav>
   )
 }

@@ -1,11 +1,12 @@
-import projectOne from "../assets/project-1.png";
+/* import projectOne from "../assets/project-1.png";
 import projectTwo from "../assets/project-2.png";
-import projectThree from "../assets/project-3.png";
+import projectThree from "../assets/project-3.png"; */
+import underMaintenance from "../assets/under-maintenance.jpg";
 
 const projects = {
   1: {
-    title: "SoMe Platform",
-    image: projectOne,
+    title: "Under Maintenance",
+    image: underMaintenance,
     description: (
       <>
         <p>
@@ -14,12 +15,12 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "#",
+    demo: "#",
   },
   2: {
-    title: "Productivity App",
-    image: projectTwo,
+    title: "Under Maintenance",
+    image: underMaintenance,
     description: (
       <>
         <p>
@@ -28,12 +29,12 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "#",
+    demo: "#",
   },
   3: {
-    title: "Food Delivery App",
-    image: projectThree,
+    title: "Under Maintenance",
+    image: underMaintenance,
     description: (
       <>
         <p>
@@ -42,8 +43,8 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "#",
+    demo: "#",
   },
 };
 

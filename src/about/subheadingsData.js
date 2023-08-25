@@ -5,8 +5,7 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Meet <b>Rubixcode</b>: A software and blockchain developer who finds solace in gaming realms. Join the journey through code, blockchain, and virtual adventures.
           </p>
         </>
       ),
@@ -14,23 +13,21 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "Blockchain Developer",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Completed Blockchain Development professional study from well known Institution.
           </p>
         </>
       ),
     },
     {
-      title: "2014 Bachelors Degree",
+      title: "Software Developer",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Top Achiever in Software Development professional study from top Institution.
           </p>
         </>
       ),
@@ -38,34 +35,31 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "GAMING",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Crafting code for the digital world by day, conquering virtual realms by night. A dedicated gamer and skilled developer in one. Game I play : Chess, Minecraft, Valorant, Genshin Impact, PUBG, Apex Legend etc.
           </p>
         </>
       ),
     },
     {
-      title: "2020 UX Designer",
+      title: "Watching Anime",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            From writing code to immersing in virtual worlds and anime realms. A developer with a passion for pixels and pixels in motion. Find me on: <u>https://myanimelist.net/profile/rubixcode</u>.
           </p>
         </>
       ),
     },
     {
-      title: "2017 IT Consultant",
+      title: "Reading Books",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            From deciphering code to unraveling novels, a journey from one captivating world to another.
           </p>
         </>
       ),
